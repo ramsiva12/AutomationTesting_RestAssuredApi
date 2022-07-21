@@ -1,0 +1,5 @@
+AllApitypes\AllapiModeltests.class
+restAssuredApiTest\BaseClass.class
+restAssuredApiTest\RestAssuredGETApi.class
+restAssuredApiTest\RestAssuredApi.class
+restAssuredApiTest\RestassuredTestApi.class
